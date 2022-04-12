@@ -4,7 +4,7 @@
 
 Projects in this GitHub
 
-[textreset.sh](../textreset.sh) -- This is a bash script I wrote for my PinePhone to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
+[textreset.sh](../ajwagers/textreset.sh) -- This is a bash script I wrote for my PinePhone to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
 
 <!---
 ajwagers/ajwagers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
