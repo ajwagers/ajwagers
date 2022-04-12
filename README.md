@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andy (@ajwagers)
-- 👀 I’m interested in R, Python, and Crypto.
+- 👀 I’m interested in R, Python, and Crypto (Solidity).
 - 🌱 I’m currently learning Solidity Smart Contract Programming and broadening my skills in R and Python.  I have also taken an interest in AI generative art and its application to cyrpto and other fields.
 
 
