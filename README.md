@@ -4,7 +4,13 @@
 
 Projects in this GitHub
 
-[textreset.sh](https://github.com/ajwagers/textreset.sh) -- This is a bash script I wrote for my PinePhone to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
+[textreset.sh](https://github.com/ajwagers/textreset.sh) -- This is a bash script I wrote for my [PinePhone](https://pine64.com/product-category/pinephone/) to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
+
+[House Hunting Jupyter Notebook](https://github.com/ajwagers/HouseHuntNotebook) -- I used CSV files downloaded from Redfin.com to optimize my house search through a Jupyter Notebook.
+
+[Galactic Altitude Calculator](https://github.com/ajwagers/Galactic-Altitude-Calculator) -- This was a javascript page I wrote in grad school to find the altitude along the meridian of the Milky Way Galactic Equator in the sky given a time and location on the earth.
+
+
 
 <!---
 ajwagers/ajwagers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
