@@ -8,6 +8,8 @@ Projects in this GitHub
 
 [House Hunting Jupyter Notebook](https://github.com/ajwagers/HouseHuntNotebook) -- I used CSV files downloaded from Redfin.com to optimize my house search through a Jupyter Notebook.
 
+[Sudoku Solver](https://github.com/ajwagers/sudoku-solver) -- I am working on a sudoku solver that uses simulated annealing to find the solution.  This is a work-in-progress.
+
 [Galactic Altitude Calculator](https://github.com/ajwagers/Galactic-Altitude-Calculator) -- This was a javascript page I wrote in grad school to find the altitude along the meridian of the Milky Way Galactic Equator in the sky given a time and location on the earth.
 
 
