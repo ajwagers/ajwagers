@@ -10,6 +10,8 @@ Projects in this GitHub
 
 [Sudoku Solver](https://github.com/ajwagers/sudoku-solver) -- I am working on a sudoku solver that uses simulated annealing to find the solution.  This is a work-in-progress.
 
+[Quiz Buzzer](https://github.com/ajwagers/QuizBuzzer) -- This is an Arduino Nano project I built to help my kids and our National Bible Bee group practice their quiz questions.  
+
 [Galactic Altitude Calculator](https://github.com/ajwagers/Galactic-Altitude-Calculator) -- This was a javascript page I wrote in grad school to find the altitude along the meridian of the Milky Way Galactic Equator in the sky given a time and location on the earth.
 
 
