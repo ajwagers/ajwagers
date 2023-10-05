@@ -4,6 +4,8 @@
 
 Projects in this GitHub
 
+[Dadbot](https://github.com/ajwagers/chatbot_0.0) -- I have a couple rough attempts at building a chatbot using AI.  The first version was a chatbot that tells Dad Jokes but would work as a FAQ chatbot.
+
 [textreset.sh](https://github.com/ajwagers/textreset.sh) -- This is a bash script I wrote for my [PinePhone](https://pine64.com/product-category/pinephone/) to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
 
 [House Hunting Jupyter Notebook](https://github.com/ajwagers/HouseHuntNotebook) -- I used CSV files downloaded from Redfin.com to optimize my house search through a Jupyter Notebook.
