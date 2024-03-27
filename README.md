@@ -4,6 +4,8 @@
 
 Projects in this GitHub
 
+[Gravity Run](https://github.com/ajwagers/GravityRun) -- This is my entry for the Space Force Association Game Jam from March 2024.  You play as a rocket but you can only move up and down, you must use the gravity of passing objects to move left and right.  Collect space probes and score points but watch out for the black hole!
+
 [Dadbot](https://github.com/ajwagers/chatbot_0.0) -- I have a couple rough attempts at building a chatbot using AI.  The first version was a chatbot that tells Dad Jokes but would work as a FAQ chatbot.
 
 [textreset.sh](https://github.com/ajwagers/textreset.sh) -- This is a bash script I wrote for my [PinePhone](https://pine64.com/product-category/pinephone/) to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
