@@ -8,7 +8,7 @@ Projects in this GitHub
 
 [Dadbot](https://github.com/ajwagers/chatbot_0.0) -- I have a couple rough attempts at building a chatbot using AI.  The first version was a chatbot that tells Dad Jokes but would work as a FAQ chatbot.
 
-[RecipeHunter](https://github.com/ajwagers/recipehunter) -- I have used Spoonacular's API to search for ingredients based on what you want to include and what ingredients you want to avoid.  I hope to automate this for different diets and allergies as well as tie into the FDAs nutrition API to estimate nutritional value.
+[RecipeHunter](https://github.com/ajwagers/reciptehunter) -- I have used Spoonacular's API to search for ingredients based on what you want to include and what ingredients you want to avoid.  I hope to automate this for different diets and allergies as well as tie into the FDAs nutrition API to estimate nutritional value.
 
 [Gravity Run](https://github.com/ajwagers/GravityRun) -- This is my entry for the Space Force Association Game Jam from March 2024.  You play as a rocket but you can only move up and down, you must use the gravity of passing objects to move left and right.  Collect space probes and score points but watch out for the black hole!
 
