@@ -8,7 +8,7 @@ Projects in this GitHub
 
 [Launch Stats Page](https://github.com/ajwagers/launch_stats_page) -- Using opensource data, this is a dashboard showing space launches this year worldwide, divided by launch facility and some other statistics.  It also highlights the upcoming launches.
 
-[Chatbot App]{(https://github.com/ajwagers/ollama_streamlit_app) -- Powered by a locally hosted LLM using Ollama with a frontend powered by Streamlit, this is intended to be a user friendly AI Chatbot that incorporates RAG, and training.
+[Chatbot App](https://github.com/ajwagers/ollama_streamlit_app) -- Powered by a locally hosted LLM using Ollama with a frontend powered by Streamlit, this is intended to be a user friendly AI Chatbot that incorporates RAG, and training.
 
 [Baseball Team Dashboard](https://github.com/ajwagers/BaseballDashboard) -- A python and Streamlit based dashboard that uses pybaseball and statsapi python packages to gather data about each MLB team.  The dashboard displays many team and player statistics.
 
