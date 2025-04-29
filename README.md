@@ -4,6 +4,12 @@
 
 Projects in this GitHub
 
+[Speech Driven AI Chatbot]{https://github.com/ajwagers/SpeechDrivenChatBot} -- This is an Ollama powered chatbot that uses a push-to-talk audio input and transcribes it, sends it to a chatbot, and uses TTS to speak the response back to the user.
+
+[Launch Stats Page]{https://github.com/ajwagers/launch_stats_page} -- Using opensource data, this is a dashboard showing space launches this year worldwide, divided by launch facility and some other statistics.  It also highlights the upcoming launches.
+
+[Chatbot App]{https://github.com/ajwagers/ollama_streamlit_app} -- Powered by a locally hosted LLM using Ollama with a frontend powered by Streamlit, this is intended to be a user friendly AI Chatbot that incorporates RAG, and training.
+
 [Word Analysis](https://github.com/ajwagers/WordAnalysis) -- Looking at books on Project Gutenberg and running a lot of analysis on them including a Word Cloud, Character Sentiment Analysis, and more.
 
 [Dadbot](https://github.com/ajwagers/chatbot_0.0) -- I have a couple rough attempts at building a chatbot using AI.  The first version was a chatbot that tells Dad Jokes but would work as a FAQ chatbot.
