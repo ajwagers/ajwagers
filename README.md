@@ -1,36 +1,53 @@
 - 👋 Hi, I’m Andy (@ajwagers)
 - 👀 I’m interested in R, Python, and Crypto (Solidity).
-- 🌱 I’m currently learning Solidity Smart Contract Programming and broadening my skills in R and Python.  I have also taken an interest in AI generative art and its application to cyrpto and other fields.
+- 🌱 I’m currently learning Solidity Smart Contract Programming and broadening my skills in R and Python. I have also taken an interest in AI generative art and its application to crypto and other projects.
 
-Projects in this GitHub
+## 🚀 Featured Projects
 
-[Speech Driven AI Chatbot](https://github.com/ajwagers/SpeechDrivenChatBot) -- This is an Ollama powered chatbot that uses a push-to-talk audio input and transcribes it, sends it to a chatbot, and uses TTS to speak the response back to the user.
+- [ThymeTable](https://github.com/ajwagers/ThymeTable) – Now live at [weeklydietplanner.app](https://weeklydietplanner.app)!  
+  A TypeScript-powered, modern web app for meal planning and diet tracking.
 
-[Launch Stats Page](https://github.com/ajwagers/launch_stats_page) -- Using opensource data, this is a dashboard showing space launches this year worldwide, divided by launch facility and some other statistics.  It also highlights the upcoming launches.
+- [silly-word-story-game](https://github.com/ajwagers/silly-word-story-game) – Play it live at [fill-in-fables.com](https://fill-in-fables.com)!  
+  A fun, interactive game where you create hilarious stories with friends and family.
 
-[Chatbot App](https://github.com/ajwagers/ollama_streamlit_app) -- Powered by a locally hosted LLM using Ollama with a frontend powered by Streamlit, this is intended to be a user friendly AI Chatbot that incorporates RAG, and training.
+- [Wavelet-Spectral-Index-Method](https://github.com/ajwagers/Wavelet-Spectral-Index-Method)  
+  My reworked PhD dissertation project, translating my original research from IDL into Python. Dive into wavelet-based spectral index analysis for advanced data science applications.
 
-[Baseball Team Dashboard](https://github.com/ajwagers/BaseballDashboard) -- A python and Streamlit based dashboard that uses pybaseball and statsapi python packages to gather data about each MLB team.  The dashboard displays many team and player statistics.
+- [QuizBuzzer](https://github.com/ajwagers/QuizBuzzer)  
+  A custom Arduino Nano project designed to help my kids and our National Bible Bee group practice trivia with a real quiz show buzzer experience.
 
-[Word Analysis](https://github.com/ajwagers/WordAnalysis) -- Looking at books on Project Gutenberg and running a lot of analysis on them including a Word Cloud, Character Sentiment Analysis, and more.
+- [BoardGameDesignPrototyper](https://github.com/ajwagers/BoardGameDesignPrototyper)  
+  Recent, TypeScript-based prototyping tool for board game design.
 
-[Dadbot](https://github.com/ajwagers/chatbot_0.0) -- I have a couple rough attempts at building a chatbot using AI.  The first version was a chatbot that tells Dad Jokes but would work as a FAQ chatbot.
+- [FaceSwap](https://github.com/ajwagers/FaceSwap)  
+  Use a live camera feed to make a face swap with a static image (HTML/Python).
 
-[RecipeHunter](https://github.com/ajwagers/reciptehunter) -- I have used Spoonacular's API to search for ingredients based on what you want to include and what ingredients you want to avoid.  I hope to automate this for different diets and allergies as well as tie into the FDAs nutrition API to estimate nutritional value.
+- [data_agent](https://github.com/ajwagers/data_agent)  
+  Pandas Data Agent using a remotely hosted LLM to chat about datasets.
 
-[Gravity Run](https://github.com/ajwagers/GravityRun) -- This is my entry for the Space Force Association Game Jam from March 2024.  You play as a rocket but you can only move up and down, you must use the gravity of passing objects to move left and right.  Collect space probes and score points but watch out for the black hole!
+- [RecipeHunter2](https://github.com/ajwagers/RecipeHunter2)  
+  The latest version of RecipeHunter with a modern stack.
 
-[Sudoku Solver](https://github.com/ajwagers/sudoku-solver) -- I am working on a sudoku solver that uses simulated annealing to find the solution.  This is a work-in-progress.
+- [Snakesheets](https://github.com/ajwagers/Snakesheets)  
+  A recent TypeScript-based project.
 
-[textreset.sh](https://github.com/ajwagers/textreset.sh) -- This is a bash script I wrote for my [PinePhone](https://pine64.com/product-category/pinephone/) to clear out the MMS cache which, if full, would keep regular SMS messages from getting through.
+- [pdf-form-filler](https://github.com/ajwagers/pdf-form-filler)  
+  Automates the process of filling PDFs.
 
-[House Hunting Jupyter Notebook](https://github.com/ajwagers/HouseHuntNotebook) -- I used CSV files downloaded from Redfin.com to optimize my house search through a Jupyter Notebook.
+- [Aesop](https://github.com/ajwagers/Aesop)  
+  Jupyter Notebook project for educational/data science applications.
 
-[Quiz Buzzer](https://github.com/ajwagers/QuizBuzzer) -- This is an Arduino Nano project I built to help my kids and our National Bible Bee group practice their quiz questions.  
+- [BGG-Data-Analysis](https://github.com/ajwagers/BGG-Data-Analysis)  
+  BoardGameGeek data analysis.
 
-[Galactic Altitude Calculator](https://github.com/ajwagers/Galactic-Altitude-Calculator) -- This was a javascript page I wrote in grad school to find the altitude along the meridian of the Milky Way Galactic Equator in the sky given a time and location on the earth.
+- [ollama_streamlit_app](https://github.com/ajwagers/ollama_streamlit_app)  
+  Streamlit + Ollama chatbot app for user-friendly AI chatbot experiences.
 
+- [BaseballDashboard](https://github.com/ajwagers/BaseballDashboard)  
+  Python and Streamlit dashboard for MLB team stats.
 
+- [SpeechDrivenChatBot](https://github.com/ajwagers/SpeechDrivenChatBot)  
+  An Ollama-powered chatbot with push-to-talk audio input and real-time transcription.
 
 <!---
 ajwagers/ajwagers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
