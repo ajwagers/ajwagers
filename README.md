@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Andy (@ajwagers)
-- 👀 I’m interested in R, Python, and Crypto (Solidity).
-- 🌱 I’m currently learning Solidity Smart Contract Programming and broadening my skills in R and Python. I have also taken an interest in AI generative art and its application to crypto and other projects.
+👋 Hi, I’m Andy (@ajwagers, Andy J. Wagers, Ph.D.)
+📊 I am a Senior Data Analyst & Operations Research Expert
+🔭 Combining a Ph.D. in Physics with 4+ years of mission-critical data leadership for the United States Space Force, 🚀
+💻 I architect scalable data solutions that transform complex information into actionable insights. 
+📝 From designing real-time analytics platforms supporting space launch operations to leading data science hackathons that produce operational MVPs, 
+🌉 I bridge the gap between advanced analytics and practical business impact.
+🔄 My expertise spans the full data lifecycle—from architecting cloud-native pipelines with Snowflake and AWS to developing optimization algorithms that compress five-day scheduling processes into five minutes. ⏳
+🛫 Whether it's building predictive maintenance models for aircraft logistics or mentoring cross-functional teams on data-driven decision making, 
+📟 I thrive at the intersection of rigorous scientific methodology and innovative technology solutions.
+🏖 Based in the Space Coast of Florida, I'm passionate about leveraging data to solve complex operational challenges and drive organizational transformation through intelligent automation and strategic analytics.
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects ##
 
 - [ThymeTable](https://github.com/ajwagers/ThymeTable) – Now live at [weeklydietplanner.app](https://weeklydietplanner.app)!  
   A TypeScript-powered, modern web app for meal planning and diet tracking.
